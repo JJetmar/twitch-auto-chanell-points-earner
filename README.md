@@ -14,4 +14,4 @@ Tempermonkey extension used for automatic earning channel points on Twitch.tv pl
 
 2.  Click here for [installation of user script](https://github.com/JJetmar/twitch-auto-channel-points-earner/raw/main/tampermonkey-twitch-auto-channel-points-earner.user.js).
 
-3.  Go to Twitch.tv select your favourite chanell and enjoy automatic earning channel points.
+3.  Go to Twitch.tv select your favourite channel and enjoy automatic earning channel points.
