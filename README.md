@@ -1,4 +1,4 @@
-# Twitch auto-channel points earner
+# Twitch auto channel points earner
 Tempermonkey extension used for automatic earning channel points on Twitch.tv platform.
 
 ## Installation
